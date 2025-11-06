@@ -17,6 +17,6 @@ I ❤️ building fun projects based on **machine learning** and **web dev**.
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayuman07&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/Ayuman07)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayuman07&theme=dark&layout=compact)](https://github.com/Ayuman07)
+
 
 
