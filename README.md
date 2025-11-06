@@ -5,7 +5,7 @@ I ❤️ building fun projects based on **machine learning** and **web dev**.
 
 ---
 
-- 📫 Reach me at: [ayushmaandutta07@gmail.com](mailto:ayushmaandutta07@gmail.com)
+📫 Reach me at: [ayushmaandutta07@gmail.com](mailto:ayushmaandutta07@gmail.com)
 
 ---
 
