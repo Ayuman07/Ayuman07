@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Ayushmaan aka Ayuman
+### Hi there👋, I'm Ayushmaan aka Ayuman
 #### A final year engg student and casual developer and programmer
 
-I ❤️ building fun projects based on **machine learning** and **web dev**.
+I build fun projects based on **machine learning** and **web dev**.
 
 ---
 
