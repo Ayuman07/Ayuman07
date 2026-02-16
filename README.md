@@ -15,8 +15,5 @@ I build fun projects based on **machine learning** and **web dev**.
 | **Platforms**         | Windows, Linux                                                                                                                                       |
 
 ---
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayuman07&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/Ayuman07)  
-
-
+  
 
